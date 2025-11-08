@@ -1,4 +1,8 @@
-# Job-Spoon
+<h1 align="center">
+  <a href="https://job-spoon.com" target="_blank" style="text-decoration:none; color:#20A4AD;">
+    <b>Job-Spoon</b>
+  </a>
+</h1>
 
 <p align="center">
   <b>국내 최초, 개발자를 위한 AI 모의면접 플랫폼</b><br/>
