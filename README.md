@@ -10,17 +10,13 @@
   <b>WOW 공대팀 · Backend Module</b>
 </p>
 
----
-
 ## Project Overview
 
-<p>
-<b>JobSpoon</b>은 AI 기반 모의면접을 통해 개발자의 역량을 진단하고,<br/>
-출석·퀴즈·스터디 등 다양한 활동 데이터를 종합하여<br/>
-<b>개인 성장과 신뢰도를 시각화</b>하는 국내 최초의 AI 개발자 성장 관리 플랫폼입니다.
+<p align="center">
+  <b>JobSpoon</b>은 AI 기반 모의면접을 통해 개발자의 역량을 진단하고,<br/>
+  출석·퀴즈·스터디 등 다양한 활동 데이터를 종합하여<br/>
+  <b>개인 성장과 신뢰도를 시각화</b>하는 국내 최초의 AI 개발자 성장 관리 플랫폼입니다.
 </p>
-
----
 
 ## MyPage Demo
 
@@ -30,8 +26,6 @@
   </a><br/> 
   <i>마이페이지 대시보드 시연 영상 보기</i> 
 </p>
-
----
 
 ## Team Profile
 
@@ -92,23 +86,17 @@
 
 </div>
 
----
-
 ## Tech Stack
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6a79ebcd-0011-4b0f-8005-f0e4e987fd51" width="90%" alt="기술 스택 다이어그램">
 </p>
 
----
-
 ## Architecture
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/201203c4-d9e9-4da3-8670-d31ec7216445" width="90%" alt="서비스 아키텍처 다이어그램">
 </p>
-
----
 
 ## Design Pattern
 
@@ -120,8 +108,6 @@
 <b>Layered Architecture</b> — Controller → Service → Repository 계층으로 책임 분리<br/>
 <b>Domain-Driven Design (DDD)</b> — 도메인 단위 패키징으로 유지보수성과 확장성 확보
 </div>
-
----
 
 ## Technical Highlights
 
@@ -164,8 +150,6 @@
 
 </div>
 
----
-
 ## Key Features
 
 <div align="center">
@@ -189,8 +173,6 @@
 </table>
 
 </div>
-
----
 
 ## Collaboration
 
@@ -217,8 +199,6 @@
 
 </div>
 
----
-
 ## Deployment
 
 <div align="center">
@@ -241,8 +221,6 @@
 </table>
 
 </div>
-
----
 
 ## How to Run
 
