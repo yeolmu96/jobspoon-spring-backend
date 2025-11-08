@@ -1,3 +1,4 @@
+---
 <h1 align="center">
   🔗 <a href="https://job-spoon.com" target="_blank" style="text-decoration:none; color:#13B38D; font-weight:800;">
     <strong>Job-Spoon</strong>
@@ -14,6 +15,8 @@
 <br/>
 <br/>
 
+---
+
 ## Project Overview
 
 <p align="center">
@@ -24,6 +27,8 @@
 
 <br/>
 <br/>
+
+---
 
 ## MyPage Demo
 
@@ -36,6 +41,8 @@
 
 <br/>
 <br/>
+
+---
 
 ## Team Profile
 
@@ -99,6 +106,8 @@
 <br/>
 <br/>
 
+---
+
 ## Tech Stack
 
 <p align="center">
@@ -108,6 +117,8 @@
 <br/>
 <br/>
 
+---
+
 ## Architecture
 
 <p align="center">
@@ -116,6 +127,8 @@
 
 <br/>
 <br/>
+
+---
 
 ## Design Pattern
 
@@ -130,6 +143,8 @@
 
 <br/>
 <br/>
+
+---
 
 ## Technical Highlights
 
@@ -175,6 +190,8 @@
 <br/>
 <br/>
 
+---
+
 ## Key Features
 
 <div align="center">
@@ -201,6 +218,8 @@
 
 <br/>
 <br/>
+
+---
 
 ## Collaboration
 
@@ -230,6 +249,8 @@
 <br/>
 <br/>
 
+---
+
 ## Deployment
 
 <div align="center">
@@ -255,6 +276,8 @@
 
 <br/>
 <br/>
+
+---
 
 ## How to Run
 
