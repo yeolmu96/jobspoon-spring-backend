@@ -38,8 +38,6 @@
       <sub>Studyroom</sub><br/>
       <a href="https://github.com/Roto90-BackEnd">@Roto90-BackEnd</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/puppy1012" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>이승현</b><br/>
@@ -47,7 +45,7 @@
       <a href="https://github.com/puppy1012">@puppy1012</a>
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/eunseon-j" width="80" height="80" style="border-radius:50%;"/><br/>
+      <img src="https://avatars.githubusercontent.com/yeolmu96" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>정은선</b><br/>
       <sub>MyPage</sub><br/>
       <a href="https://github.com/yeolmu96">@yeolmu96</a>
