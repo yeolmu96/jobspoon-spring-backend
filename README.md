@@ -98,7 +98,7 @@
 <br/>
 
 <a href="https://eddi-robot-academy.notion.site/239694fe059580ba9209da02f8fc32b4" target="_blank">
-  <img src="https://img.shields.io/badge/Notion%20Team%20Page-2998C5?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Link">
+  <img src="https://img.shields.io/badge/Notion%20Team%20Page-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Link">
 </a>
 
 </div>
