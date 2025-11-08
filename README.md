@@ -247,4 +247,4 @@
 cd backend
 ./gradlew build
 java -jar build/libs/jobspoon.jar
-\```
+```
