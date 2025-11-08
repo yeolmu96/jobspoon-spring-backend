@@ -18,7 +18,7 @@
 
 ---
 
-## 🎥 MyPage Demo
+## MyPage Demo
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=2HRqqLArhD4" target="_blank">
@@ -82,7 +82,6 @@
 
 <br/>
 
-<!-- Notion button -->
 <a href="https://eddi-robot-academy.notion.site/239694fe059580ba9209da02f8fc32b4" target="_blank">
   <img src="https://img.shields.io/badge/Notion%20Team%20Page-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Link">
 </a>
@@ -114,24 +113,49 @@
 </p>
 
 <div align="center">
-<b>Layered Architecture</b> → Controller → Service → Repository 계층으로 책임 분리<br/>
-<b>Domain-Driven Design (DDD)</b> → 도메인 단위 패키징으로 유지보수성/확장성 확보
+<b>Layered Architecture</b> — Controller → Service → Repository 계층으로 책임 분리<br/>
+<b>Domain-Driven Design (DDD)</b> — 도메인 단위 패키징으로 유지보수성과 확장성 확보
 </div>
 
 ---
 
-## Tech Highlights
+## Technical Highlights
 
 <div align="center">
 
 <table>
-  <tr><th>기술 포인트</th><th>설명</th></tr>
-  <tr><td>OAuth & Token 관리</td><td>Kakao / Meta 로그인, Redis TTL 세션 캐싱</td></tr>
-  <tr><td>Proxy Service 구조</td><td>Django → Spring 이관 시 API 단일화 및 호출 흐름 단순화</td></tr>
-  <tr><td>신뢰점수 시스템</td><td>출석·면접·퀴즈 등 활동 데이터를 가중치 기반 점수화</td></tr>
-  <tr><td>CI/CD 자동화</td><td>GitHub Actions + Docker + AWS EC2 파이프라인 구축</td></tr>
-  <tr><td>시각화 대시보드</td><td>Recharts 기반 성장 그래프 / 출석률 / 레벨 변화 시각화</td></tr>
-  <tr><td>MFE 구조</td><td>Rspack + Lerna + Nx 기반 모듈 간 독립 빌드 및 배포</td></tr>
+  <thead>
+    <tr>
+      <th width="220px">기술 포인트</th>
+      <th>설명</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>OAuth & Token 관리</td>
+      <td>Kakao / Meta 로그인, Redis TTL 세션 캐싱 구조 설계</td>
+    </tr>
+    <tr>
+      <td>Proxy Service 구조</td>
+      <td>Django → Spring 전환 시 API 호출 흐름 단일화</td>
+    </tr>
+    <tr>
+      <td>신뢰점수 시스템</td>
+      <td>출석·면접·퀴즈 데이터 기반 가중치 점수화 및 자동 갱신</td>
+    </tr>
+    <tr>
+      <td>CI/CD 자동화</td>
+      <td>GitHub Actions + Docker + AWS EC2 파이프라인 구축</td>
+    </tr>
+    <tr>
+      <td>시각화 대시보드</td>
+      <td>Recharts 기반 성장 그래프 및 사용자 지표 시각화</td>
+    </tr>
+    <tr>
+      <td>MFE 구조</td>
+      <td>Rspack + Lerna + Nx 기반 모듈 독립 빌드 및 배포</td>
+    </tr>
+  </tbody>
 </table>
 
 </div>
@@ -143,14 +167,21 @@
 <div align="center">
 
 <table>
-  <tr><th>구분</th><th>주요 기능</th></tr>
-  <tr><td><b>AI 모의면접</b></td><td>OpenAI 기반 질의응답, 실시간 평가 및 피드백 생성</td></tr>
-  <tr><td><b>회원 관리</b></td><td>OAuth (Kakao / Meta), JWT 인증, Redis 세션 관리</td></tr>
-  <tr><td><b>마이페이지 / 대시보드</b></td><td>활동점수, 레벨, 칭호, 성장 그래프 시각화</td></tr>
-  <tr><td><b>일정 & 스터디 관리</b></td><td>개인/스터디 일정 통합, 출석률 통계</td></tr>
-  <tr><td><b>퀴즈 / 학습 기능</b></td><td>직군별 문제 세트 제공 및 점수 기반 성장 관리</td></tr>
-  <tr><td><b>관리자 페이지</b></td><td>신고 처리, 사용자 제재, 통계 대시보드</td></tr>
-  <tr><td><b>모바일 앱 (Flutter)</b></td><td>주요 기능 모바일 통합 제공</td></tr>
+  <thead>
+    <tr>
+      <th width="220px">구분</th>
+      <th>주요 기능</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>AI 모의면접</td><td>OpenAI 기반 질의응답, 실시간 평가 및 피드백 생성</td></tr>
+    <tr><td>회원 관리</td><td>OAuth (Kakao / Meta), JWT 인증, Redis 세션 관리</td></tr>
+    <tr><td>마이페이지 / 대시보드</td><td>활동점수, 레벨, 칭호, 성장 그래프 시각화</td></tr>
+    <tr><td>일정 & 스터디 관리</td><td>개인/스터디 일정 통합, 출석률 통계 기능</td></tr>
+    <tr><td>퀴즈 / 학습 기능</td><td>직군별 문제 세트 제공 및 점수 기반 성장 관리</td></tr>
+    <tr><td>관리자 페이지</td><td>신고 처리, 사용자 제재, 통계 대시보드</td></tr>
+    <tr><td>모바일 앱 (Flutter)</td><td>주요 기능 모바일 통합 제공</td></tr>
+  </tbody>
 </table>
 
 </div>
@@ -166,11 +197,18 @@
 <div align="center">
 
 <table>
-  <tr><th>도구</th><th>역할</th></tr>
-  <tr><td><a href="https://eddi-robot-academy.notion.site/239694fe059580ba9209da02f8fc32b4" target="_blank"><b>Notion</b></a></td><td>기획, 백로그, 일정 관리</td></tr>
-  <tr><td>GitHub</td><td>브랜치 전략, PR 리뷰, 커밋 컨벤션</td></tr>
-  <tr><td>Slack</td><td>실시간 커뮤니케이션</td></tr>
-  <tr><td>Issue Tracker</td><td>장애 대응, 기능 개선 기록</td></tr>
+  <thead>
+    <tr>
+      <th width="220px">도구</th>
+      <th>역할</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><a href="https://eddi-robot-academy.notion.site/239694fe059580ba9209da02f8fc32b4" target="_blank"><b>Notion</b></a></td><td>기획, 백로그, 스크럼 관리</td></tr>
+    <tr><td>GitHub</td><td>브랜치 전략, Pull Request 리뷰, 커밋 컨벤션</td></tr>
+    <tr><td>Slack</td><td>실시간 커뮤니케이션 및 공지 공유</td></tr>
+    <tr><td>Issue Tracker</td><td>장애 대응, 기능 개선, 배포 이력 관리</td></tr>
+  </tbody>
 </table>
 
 </div>
@@ -182,16 +220,27 @@
 <div align="center">
 
 <table>
-  <tr><th>구성</th><th>기술</th></tr>
-  <tr><td>Server</td><td>AWS EC2 (Docker Compose)</td></tr>
-  <tr><td>DB</td><td>AWS RDS (MySQL)</td></tr>
-  <tr><td>Cache</td><td>AWS ElastiCache (Redis)</td></tr>
-  <tr><td>Storage</td><td>AWS S3</td></tr>
-  <tr><td>CI/CD</td><td>GitHub Actions → Docker Hub → EC2</td></tr>
-  <tr><td>Domain/CDN</td><td>AWS Route53 + CloudFront</td></tr>
+  <thead>
+    <tr>
+      <th width="220px">구성</th>
+      <th>기술</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Server</td><td>AWS EC2 (Docker Compose)</td></tr>
+    <tr><td>Database</td><td>AWS RDS (MySQL)</td></tr>
+    <tr><td>Cache</td><td>AWS ElastiCache (Redis)</td></tr>
+    <tr><td>Storage</td><td>AWS S3</td></tr>
+    <tr><td>CI/CD</td><td>GitHub Actions → Docker Hub → EC2</td></tr>
+    <tr><td>Domain/CDN</td><td>AWS Route53 + CloudFront</td></tr>
+  </tbody>
 </table>
 
 </div>
+
+---
+
+## How to Run
 
 ```bash
 # Backend 실행
