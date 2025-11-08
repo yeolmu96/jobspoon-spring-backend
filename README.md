@@ -27,7 +27,7 @@
 ## 📊 Tech Stack
 
 <p align="center">
-  <img src="./assets/tech_env.png" width="90%" alt="기술 스택 다이어그램">
+  <img src="https://github.com/user-attachments/assets/6a79ebcd-0011-4b0f-8005-f0e4e987fd51" width="90%" alt="기술 스택 다이어그램">
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ## 🧱 Design Pattern
 
 <p align="center">
-  <img src="./assets/design_pattern.png" width="90%" alt="설계 패턴 구조">
+  <img src="https://github.com/user-attachments/assets/7401fb13-86aa-47fd-96ba-afe1355855ba" width="90%" alt="설계 패턴 구조">
 </p>
 
 - **Layered Architecture** → Controller → Service → Repository 계층 구조로 명확한 책임 분리  
@@ -90,7 +90,7 @@
 ## 🤝 Collaboration
 
 <p align="center">
-  <img src="./assets/collaboration.png" width="80%" alt="협업 환경 다이어그램">
+  <img src="https://github.com/user-attachments/assets/2fc82de6-15b5-4363-825f-529e5ba211d7" width="80%" alt="협업 환경 다이어그램">
 </p>
 
 | 도구 | 역할 |
