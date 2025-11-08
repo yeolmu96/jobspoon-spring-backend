@@ -3,7 +3,7 @@
 <p align="center">
   <b>국내 최초, 개발자를 위한 AI 모의면접 플랫폼</b><br/>
   <i>AI로 검증하는 진짜 성장, JobSpoon과 함께하세요.</i><br/>
-  <b>WOW 공대팀</b>
+  <b>WOW 공대팀 · Backend Module</b>
 </p>
 
 ---
@@ -14,6 +14,17 @@
 <b>JobSpoon</b>은 AI 기반 모의면접을 통해 개발자의 역량을 진단하고,<br/>
 출석·퀴즈·스터디 등 다양한 활동 데이터를 종합하여<br/>
 <b>개인 성장과 신뢰도를 시각화</b>하는 국내 최초의 AI 개발자 성장 관리 플랫폼입니다.
+</p>
+
+---
+
+## 🎥 MyPage Demo
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=2HRqqLArhD4" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
+  </a><br/>
+  <i>마이페이지 대시보드 시연 영상 보기</i>
 </p>
 
 ---
@@ -187,8 +198,3 @@
 cd backend
 ./gradlew build
 java -jar build/libs/jobspoon.jar
-
-# Frontend 실행
-cd frontend
-npm install
-npm run start
