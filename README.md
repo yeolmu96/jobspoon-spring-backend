@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://job-spoon.com" target="_blank" style="text-decoration:none; color:#20A4AD;">
+  🔗 <a href="https://job-spoon.com" target="_blank" style="text-decoration:none; color:#20A4AD;">
     <b>Job-Spoon</b>
   </a>
 </h1>
