@@ -14,18 +14,65 @@
 
 <table>
   <tr>
-    <th>팀원</th>
-    <th>역할</th>
-    <th>GitHub</th>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/unchul" width="80" height="80" style="border-radius:50%;"/><br/>
+      <b>임운철</b><br/>
+      <sub>MFE · SEO · PM</sub><br/>
+      <a href="https://github.com/unchul">@unchul</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/IMCODER0000" width="80" height="80" style="border-radius:50%;"/><br/>
+      <b>최현수</b><br/>
+      <sub>AI Interview · CI/CD</sub><br/>
+      <a href="https://github.com/IMCODER0000">@IMCODER0000</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/Mur-pixel" width="80" height="80" style="border-radius:50%;"/><br/>
+      <b>김정민</b><br/>
+      <sub>SpoonWord</sub><br/>
+      <a href="https://github.com/Mur-pixel">@Mur-pixel</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/Roto90-BackEnd" width="80" height="80" style="border-radius:50%;"/><br/>
+      <b>박태준</b><br/>
+      <sub>Studyroom</sub><br/>
+      <a href="https://github.com/Roto90-BackEnd">@Roto90-BackEnd</a>
+    </td>
   </tr>
-  <tr><td>🧠 <b>임운철</b></td><td>MFE · SEO · PM</td><td><a href="https://github.com/unchul">@unchul</a></td></tr>
-  <tr><td>⚙️ <b>최현수</b></td><td>AI Interview · CI/CD</td><td><a href="https://github.com/IMCODER0000">@IMCODER0000</a></td></tr>
-  <tr><td>🧩 <b>김정민</b></td><td>SpoonWord</td><td><a href="https://github.com/Mur-pixel">@Mur-pixel</a></td></tr>
-  <tr><td>🏗️ <b>박태준</b></td><td>Studyroom</td><td><a href="https://github.com/Roto90-BackEnd">@Roto90-BackEnd</a></td></tr>
-  <tr><td>🛠️ <b>이승현</b></td><td>Admin</td><td><a href="https://github.com/puppy1012">@puppy1012</a></td></tr>
-  <tr><td>🎨 <b>정은선</b></td><td>MyPage</td><td><a href="https://github.com/eunseon-j">@eunseon-j</a></td></tr>
-  <tr><td>📱 <b>김지한</b></td><td>Flutter Mobile</td><td><a href="https://github.com/IsKJH">@IsKJH</a></td></tr>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/puppy1012" width="80" height="80" style="border-radius:50%;"/><br/>
+      <b>이승현</b><br/>
+      <sub>Admin</sub><br/>
+      <a href="https://github.com/puppy1012">@puppy1012</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/eunseon-j" width="80" height="80" style="border-radius:50%;"/><br/>
+      <b>정은선</b><br/>
+      <sub>MyPage</sub><br/>
+      <a href="https://github.com/yeolmu96">@yeolmu96</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/IsKJH" width="80" height="80" style="border-radius:50%;"/><br/>
+      <b>김지한</b><br/>
+      <sub>Flutter Mobile</sub><br/>
+      <a href="https://github.com/IsKJH">@IsKJH</a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="80" height="80" style="border-radius:50%; opacity:0.3;"/><br/>
+      <b>Guest</b><br/>
+      <sub>Contributor</sub><br/>
+      <a href="#">-</a>
+    </td>
+  </tr>
 </table>
+
+<br/>
+
+<!-- 노션 버튼 -->
+<a href="https://eddi-robot-academy.notion.site/239694fe059580ba9209da02f8fc32b4" target="_blank">
+  <img src="https://img.shields.io/badge/Notion%20Team%20Page-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Link">
+</a>
 
 </div>
 
