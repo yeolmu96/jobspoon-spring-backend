@@ -1,7 +1,7 @@
 <h1 align="center">
-  🔗 <a href="https://job-spoon.com" target="_blank" style="text-decoration:none; color:#20A4AD;">
+  🔗 <a href="https://job-spoon.com" target="_blank" style="text-decoration:none; color:#13B38D;">
     <b>Job-Spoon</b>
-  </a>
+  </a> 
 </h1>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=2HRqqLArhD4" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
+    <img src="https://img.shields.io/badge/Watch%20Demo-20A4AD?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
   </a><br/>
   <i>마이페이지 대시보드 시연 영상 보기</i>
 </p>
@@ -43,43 +43,43 @@
       <img src="https://avatars.githubusercontent.com/unchul" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>임운철</b><br/>
       <sub>MFE · SEO · PM</sub><br/>
-      <a href="https://github.com/unchul">@unchul</a>
+      <a href="https://github.com/unchul" style="color:#13B38D;">@unchul</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/IMCODER0000" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>최현수</b><br/>
       <sub>AI Interview · CI/CD</sub><br/>
-      <a href="https://github.com/IMCODER0000">@IMCODER0000</a>
+      <a href="https://github.com/IMCODER0000" style="color:#13B38D;">@IMCODER0000</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/Mur-pixel" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>김정민</b><br/>
       <sub>SpoonWord</sub><br/>
-      <a href="https://github.com/Mur-pixel">@Mur-pixel</a>
+      <a href="https://github.com/Mur-pixel" style="color:#13B38D;">@Mur-pixel</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/Roto90-BackEnd" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>박태준</b><br/>
       <sub>Studyroom</sub><br/>
-      <a href="https://github.com/Roto90-BackEnd">@Roto90-BackEnd</a>
+      <a href="https://github.com/Roto90-BackEnd" style="color:#13B38D;">@Roto90-BackEnd</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/puppy1012" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>이승현</b><br/>
       <sub>Admin</sub><br/>
-      <a href="https://github.com/puppy1012">@puppy1012</a>
+      <a href="https://github.com/puppy1012" style="color:#13B38D;">@puppy1012</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/yeolmu96" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>정은선</b><br/>
       <sub>MyPage</sub><br/>
-      <a href="https://github.com/yeolmu96">@yeolmu96</a>
+      <a href="https://github.com/yeolmu96" style="color:#13B38D;">@yeolmu96</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/IsKJH" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>김지한</b><br/>
       <sub>Flutter Mobile</sub><br/>
-      <a href="https://github.com/IsKJH">@IsKJH</a>
+      <a href="https://github.com/IsKJH" style="color:#13B38D;">@IsKJH</a>
     </td>
   </tr>
 </table>
@@ -87,7 +87,7 @@
 <br/>
 
 <a href="https://eddi-robot-academy.notion.site/239694fe059580ba9209da02f8fc32b4" target="_blank">
-  <img src="https://img.shields.io/badge/Notion%20Team%20Page-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Link">
+  <img src="https://img.shields.io/badge/Notion%20Team%20Page-13B38D?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Link">
 </a>
 
 </div>
