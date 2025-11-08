@@ -1,7 +1,7 @@
 <h1 align="center">
-  🔗 <a href="https://job-spoon.com" target="_blank" style="text-decoration:none; color:#13B38D;">
-    <b>Job-Spoon</b>
-  </a> 
+  🔗 <a href="https://job-spoon.com" target="_blank" style="text-decoration:none; color:#13B38D; font-weight:800;">
+    <strong>Job-Spoon</strong>
+  </a>
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## Project Overview
 
-<p align="center">
+<p>
 <b>JobSpoon</b>은 AI 기반 모의면접을 통해 개발자의 역량을 진단하고,<br/>
 출석·퀴즈·스터디 등 다양한 활동 데이터를 종합하여<br/>
 <b>개인 성장과 신뢰도를 시각화</b>하는 국내 최초의 AI 개발자 성장 관리 플랫폼입니다.
@@ -24,11 +24,11 @@
 
 ## MyPage Demo
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=2HRqqLArhD4" target="_blank">
-    <img src="https://img.shields.io/badge/Watch%20Demo-20A4AD?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
-  </a><br/>
-  <i>마이페이지 대시보드 시연 영상 보기</i>
+<p align="center"> 
+  <a href="https://www.youtube.com/watch?v=2HRqqLArhD4" target="_blank"> 
+    <img src="https://img.shields.io/badge/YouTube%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo"> 
+  </a><br/> 
+  <i>마이페이지 대시보드 시연 영상 보기</i> 
 </p>
 
 ---
@@ -87,7 +87,7 @@
 <br/>
 
 <a href="https://eddi-robot-academy.notion.site/239694fe059580ba9209da02f8fc32b4" target="_blank">
-  <img src="https://img.shields.io/badge/Notion%20Team%20Page-13B38D?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Link">
+  <img src="https://img.shields.io/badge/Notion%20Team%20Page-2998C5?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Link">
 </a>
 
 </div>
